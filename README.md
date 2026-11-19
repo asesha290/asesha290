@@ -54,6 +54,23 @@
 
 ---
 
+## 🚀 Featured Project
+
+### DIU Faculty Finder
+
+A student-friendly faculty directory application for Daffodil International University.
+
+**Key Features:**
+- Search faculty by name, department, and room
+- Filter faculty by department
+- Voice search
+- View faculty details and contact information
+- Save favorite faculty members
+
+[View Project](https://github.com/asesha290/DIU-Faculty-Finder)
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
